@@ -18,6 +18,44 @@ Look at compilation systems and see the different trade-offs such as power consu
 <ul>
   <li>
   Lab 01: DFA Simulation
+  </li> <li>
+  Lab 02: Lexical Analysis – Part I
+  </li>
+   <li>
+  Lab 03: Symbol Table Implementation
+  </li>
+   <li>
+  Lab 04 : On Flex start
+  </li>
+   <li>
+  Lab 05: Lexical analysis using flex
+  </li>
+   <li>
+  Lab 06: Lab on jFlex
+  </li>
+   <li>
+  Lab 07: Lab on Bison
+  </li>
+   <li>
+  Lab 08:  Functions using Bison
+  </li>
+   <li>
+  Lab 09: Recursive Descent Parsing
+  </li>
+   <li>
+  Lab 10: First and Follow Sets
+  </li>
+   <li>
+  Lab 11: parsing table construction
+  </li>
+   <li>
+  Lab 12: Type Checking and Scope Checking
+  </li>
+   <li>
+  Lab 13: Type of Code Optimization
+  </li>
+   <li>
+  Lab 14: Application of LLVM
   </li>
   </ul>
 
